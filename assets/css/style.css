@@ -9,6 +9,8 @@
 .everyday-products .left-fade img {
   width: 100%;
   min-height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 
 .everyday-products .right-fade {
